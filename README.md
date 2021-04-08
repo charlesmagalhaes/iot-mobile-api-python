@@ -13,6 +13,7 @@ Criação de uma pequena aplicação para Android usando Python e Kivy para cons
 
 ![iot](https://user-images.githubusercontent.com/67280323/114068074-e07ecf00-9873-11eb-8c07-cc5d7614b578.jpg)
 
+![telaKivy](https://user-images.githubusercontent.com/67280323/114068974-ddd0a980-9874-11eb-963b-566fe94b5f5e.jpg)
 
 
 
@@ -37,5 +38,5 @@ Criação de uma pequena aplicação para Android usando Python e Kivy para cons
 
 ## API's para alimentação dos dados
 
-write - GET https://api.thingspeak.com/update?api_key=HXU1O3UOLAAG98KG&field1=0
-read - GET https://api.thingspeak.com/channels/1235546/fields/1.json?results=2
+- write - GET https://api.thingspeak.com/update?api_key=HXU1O3UOLAAG98KG&field1=0
+- read - GET https://api.thingspeak.com/channels/1235546/fields/1.json?results=2
