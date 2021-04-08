@@ -1,4 +1,4 @@
-### Projeto Final - Internet das Coisas
+### Projeto Final - Internet das Coisas - Controle de temperatura em um arquivo.
 
 1. Dispositivo de IoT: responsável por coletar dados do ambiente e disponibilizá-los em uma rede local (escritório, casa, etc.)
 Será adotada a plataforma Arduino para efeito de exemplificação, assim como um shield de ethernet/wifi para comunicação com o broaker local.
