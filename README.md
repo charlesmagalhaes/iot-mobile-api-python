@@ -1,4 +1,4 @@
-### Projeto Final Internet das Coisas
+### Projeto Final - Internet das Coisas
 
 1. Dispositivo de IoT: responsável por coletar dados do ambiente e disponibilizá-los em uma rede local (escritório, casa, etc.)
 Será adotada a plataforma Arduino para efeito de exemplificação, assim como um shield de ethernet/wifi para comunicação com o broaker local.
@@ -10,6 +10,8 @@ Como broaker remoto será usada a plataforma ThingSpeak, a ser acessada pelo bro
 A aplicação mobile, como dito anteriormente, deverá consumir os dados e exibi-los ao usuário e isso será feito de duas formas:
 Usando o ThingView, aplicativo da própria plataforma ThingSpeak, bastando instalar e configurar.
 Criação de uma pequena aplicação para Android usando Python e Kivy para consumir os dados da ThingSpeak, também via HTTP.
+
+![iot](https://user-images.githubusercontent.com/67280323/114068074-e07ecf00-9873-11eb-8c07-cc5d7614b578.jpg)
 
 
 
