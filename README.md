@@ -29,7 +29,7 @@ Criação de uma pequena aplicação para Android usando Python e Kivy para cons
 
 ## Como "startar" a aplicação
 1. Clonar o projeto no diretório de sua preferência;
-1. Abrir o Visual Studio Code e importar a aplicação;
+1. Abrir o Pycharm Community 2020.2 e importar a aplicação;
 
 
 ## Navegar na aplicação
